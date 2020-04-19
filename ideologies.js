@@ -1,6 +1,6 @@
 ideologies = [
     {
-        "name": "아나코 코뮤니즘",
+        "name": "아나코공산주의",
         "stats": {
             "econ": 100,
             "dipl": 50,
@@ -171,7 +171,7 @@ ideologies = [
         }
     },
     {
-        "name": "종교 민주주의",
+        "name": "종교민주주의",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -198,7 +198,7 @@ ideologies = [
         }
     },
     {
-        "name": "아나코 뮤투얼리즘",
+        "name": "아나코 상호주의",
         "stats": {
             "econ": 60,
             "dipl": 50,
@@ -225,7 +225,7 @@ ideologies = [
         }
     },
     {
-        "name": "테크노크라시",
+        "name": "기술관료주의",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -234,7 +234,7 @@ ideologies = [
         }
     },
     {
-        "name": "중도주의자",
+        "name": "중도주의",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -243,7 +243,7 @@ ideologies = [
         }
     },
     {
-        "name": "자유주의자",
+        "name": "자유주의",
         "stats": {
             "econ": 50,
             "dipl": 60,
@@ -306,7 +306,7 @@ ideologies = [
         }
     },
     {
-        "name": "아나코 에고이즘",
+        "name": "아나코 이기주의",
         "stats": {
             "econ": 40,
             "dipl": 50,
@@ -423,7 +423,7 @@ ideologies = [
         }
     },
     {
-        "name": "시장 아나키즘",
+        "name": "자유시장 아나키즘",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -432,7 +432,7 @@ ideologies = [
         }
     },
     {
-        "name": "급진적 자본주의",
+        "name": "객관주의",
         "stats": {
             "econ": 10,
             "dipl": 50,
@@ -459,7 +459,7 @@ ideologies = [
         }
     },
     {
-        "name": "아나코 캐피탈리즘",
+        "name": "아나코 자본주의",
         "stats": {
             "econ": 0,
             "dipl": 50,
